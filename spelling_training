@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 system('clear')
 
 print "Type the kind of game you want to play (1 - words, 2 - numbers): "
