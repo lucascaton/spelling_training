@@ -1,3 +1,3 @@
 # Spelling training
 
-Requires *OS X*.
+Requires **OS X**.
